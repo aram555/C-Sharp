@@ -14,3 +14,5 @@ SHOT - Battle
 DEATHS - Info of all death soldiers
 
 STOP - Stop the programm
+
+O/E - Our/Enemy
